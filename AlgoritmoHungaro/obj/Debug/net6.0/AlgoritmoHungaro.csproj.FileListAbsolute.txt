@@ -1,0 +1,15 @@
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\bin\Debug\net6.0\AlgoritmoHungaro.exe
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\bin\Debug\net6.0\AlgoritmoHungaro.deps.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\bin\Debug\net6.0\AlgoritmoHungaro.runtimeconfig.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\bin\Debug\net6.0\AlgoritmoHungaro.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\bin\Debug\net6.0\AlgoritmoHungaro.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\AlgoritmoHungaro.csproj.AssemblyReference.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\AlgoritmoHungaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\AlgoritmoHungaro.AssemblyInfoInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\AlgoritmoHungaro.AssemblyInfo.cs
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\AlgoritmoHungaro.csproj.CoreCompileInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\AlgoritmoHungaro.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\refint\AlgoritmoHungaro.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\AlgoritmoHungaro.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\AlgoritmoHungaro.genruntimeconfig.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Emparalhamento\AlgoritmoHungaro\AlgoritmoHungaro\obj\Debug\net6.0\ref\AlgoritmoHungaro.dll
